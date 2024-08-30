@@ -23,8 +23,9 @@ router.get("/kata", async (req, res) => {
 router.get("/kata/:cariKata", async (req, res) => {
   try {
     const { cariKata } = req.params;
+    const re = new RegExp(cariKata, "i");
     const kata = await Kata.find({
-      $regex: [{ indonesia: cariKata }, { sunda: cariKata }],
+      $or: [{ indonesia: { $regex: re } }, { sunda: { $regex: re } }],
     });
     res.status(200).json(kata);
   } catch (error) {
