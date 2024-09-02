@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 const kataRoute = require("./routes/kata.routes.js");
+const adminRoute = require("./routes/admin.routes.js");
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -19,6 +20,8 @@ app.get("/", (req, res) => {
 });
 
 app.use("/", kataRoute);
+
+app.use("/", adminRoute);
 
 mongoose
   .connect(
