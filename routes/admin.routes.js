@@ -20,6 +20,25 @@ router.get("/admin", async (req, res) => {
   }
 });
 
+router.put("/admin/:id", async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    console.log("body", req.body);
+    const admin = await Admin.findByIdAndUpdate(
+      { _id: id },
+      { username: req.body.username, password: req.body.password },
+      {
+        new: true,
+      }
+    );
+
+    res.status(200).json(admin);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
 router.get("/admin/:id", async (req, res) => {
   try {
     const { id } = req.params;
