@@ -58,9 +58,14 @@ router.get("/kata/:id", async (req, res) => {
 router.put("/kata/:id", async (req, res) => {
   try {
     const { id } = req.params;
-    const kata = await Kata.updateOne({ _id: id }, req.body);
+    const kataUpdate = await Kata.findByIdAndUpdate(
+      { _id: id },
+      { indonesia: req.body.indonesia, sunda: req.body.sunda },
+      {
+        new: true,
+      }
+    );
 
-    const kataUpdate = await Kata.findOne({ _id: id });
     res.status(200).json(kataUpdate);
   } catch (error) {
     res.status(500).json({ message: error.message });
