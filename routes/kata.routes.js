@@ -82,4 +82,14 @@ router.delete("/kata/:id", async (req, res) => {
   }
 });
 
+router.delete("/kata", async (req, res) => {
+  try {
+    const { id } = req.params;
+    const kata = await Kata.deleteMany();
+    res.status(200).json(kata);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+});
+
 module.exports = router;
