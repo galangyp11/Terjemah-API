@@ -1,0 +1,2312 @@
+[
+  {
+    "_id": "672d6dc16871498a71b86442",
+    "indonesia": "Bodoh",
+    "sunda": "Tebleg",
+    "__v": 0
+  },
+  {
+    "_id": "672d6dc76871498a71b86446",
+    "indonesia": "Malas",
+    "sunda": "Awang",
+    "__v": 0
+  },
+  {
+    "_id": "672d6dd22d6eb9e34afea193",
+    "indonesia": "Bunga",
+    "sunda": "Kembang",
+    "__v": 0
+  },
+  {
+    "_id": "672d6dd32d6eb9e34afea195",
+    "indonesia": "Akrab",
+    "sunda": "Conggah",
+    "__v": 0
+  },
+  {
+    "_id": "672d6dda2d6eb9e34afea19a",
+    "indonesia": "Masa",
+    "sunda": "Abong",
+    "__v": 0
+  },
+  {
+    "_id": "672d6df26871498a71b86464",
+    "indonesia": "Motong padi",
+    "sunda": "Di buat",
+    "__v": 0
+  },
+  {
+    "_id": "672d6df36871498a71b86467",
+    "indonesia": "ASIK",
+    "sunda": "RESEP",
+    "__v": 0
+  },
+  {
+    "_id": "672d6df76871498a71b8646f",
+    "indonesia": "Badan",
+    "sunda": "Awak",
+    "__v": 0
+  },
+  {
+    "_id": "672d6dfc2d6eb9e34afea1ab",
+    "indonesia": "Tenggelam",
+    "sunda": "Kelebuh",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e002d6eb9e34afea1b5",
+    "indonesia": "Got/parit",
+    "sunda": "Comberan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e086871498a71b8647a",
+    "indonesia": "SYALALALILI",
+    "sunda": "SYALALALILI",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e132d6eb9e34afea1cc",
+    "indonesia": "Biarin",
+    "sunda": "Antepin",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e306871498a71b8648d",
+    "indonesia": "Abisnya",
+    "sunda": "Andenya",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e432d6eb9e34afea1db",
+    "indonesia": "Mengambil",
+    "sunda": "Comot",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e4d6871498a71b864a8",
+    "indonesia": "Grogi",
+    "sunda": "Kagok",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e5b6871498a71b864c0",
+    "indonesia": "Menjijikan",
+    "sunda": "Menggilanan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e5b2d6eb9e34afea1eb",
+    "indonesia": "Sama sekali",
+    "sunda": "Acan acan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e5e6871498a71b864c9",
+    "indonesia": "Sangat menikmati",
+    "sunda": "Cekrah",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e616871498a71b864cb",
+    "indonesia": "Sampah daun",
+    "sunda": "Kleang",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e6fdfda6419d4d0cdd0",
+    "indonesia": "TAKUT ",
+    "sunda": "SIYEUN",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e72dfda6419d4d0cdd5",
+    "indonesia": "Minggir",
+    "sunda": "Mingser",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e74e8dfbf0d42154bc4",
+    "indonesia": "Kesana",
+    "sunda": "Kesonoh",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e762d6eb9e34afea1ff",
+    "indonesia": "Khusyu dengan sesuatu",
+    "sunda": "Cetoh",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e7ee8dfbf0d42154bcf",
+    "indonesia": "TERKADANG ",
+    "sunda": "SOKANAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e806871498a71b864ed",
+    "indonesia": "Bau",
+    "sunda": "Apek",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e83dfda6419d4d0cddf",
+    "indonesia": "Ramai",
+    "sunda": "Coyah",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e86e8dfbf0d42154bd9",
+    "indonesia": "Melar",
+    "sunda": "Mulur",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e89dfda6419d4d0cde2",
+    "indonesia": "SILAU ",
+    "sunda": "SILO",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e95e8dfbf0d42154bec",
+    "indonesia": "Pilek",
+    "sunda": "Meler",
+    "__v": 0
+  },
+  {
+    "_id": "672d6e98e8dfbf0d42154bee",
+    "indonesia": "Harus",
+    "sunda": "Kudu",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ea06871498a71b86505",
+    "indonesia": "Bambu",
+    "sunda": "Awi",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ea2e8dfbf0d42154c02",
+    "indonesia": "SINGKONG",
+    "sunda": "SAMPE",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ea8dfda6419d4d0cdeb",
+    "indonesia": "Berserakan",
+    "sunda": "Maur",
+    "__v": 0
+  },
+  {
+    "_id": "672d6eb5e8dfbf0d42154c0f",
+    "indonesia": "Marah marah",
+    "sunda": "Arogan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6eb6e8dfbf0d42154c11",
+    "indonesia": "TIDURAN",
+    "sunda": "REBAHAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ec7e8dfbf0d42154c22",
+    "indonesia": "Hari",
+    "sunda": "Ari",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ed22d6eb9e34afea22f",
+    "indonesia": "RAJIN ",
+    "sunda": "GETAP",
+    "__v": 0
+  },
+  {
+    "_id": "672d6edbdfda6419d4d0ce02",
+    "indonesia": "Pergi(diusir)",
+    "sunda": "Minggat",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ede6871498a71b86521",
+    "indonesia": "RUMAH",
+    "sunda": "IMAH",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ee46871498a71b86525",
+    "indonesia": "Kebiasaan",
+    "sunda": "Angger",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ef1e8dfbf0d42154c4d",
+    "indonesia": "RAMBUT",
+    "sunda": "BU UK",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ef2e8dfbf0d42154c4f",
+    "indonesia": "Lemari besar",
+    "sunda": "Miswar",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ef7e8dfbf0d42154c58",
+    "indonesia": "Kerudung",
+    "sunda": "Kudungan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ef9dfda6419d4d0ce22",
+    "indonesia": "Murah senyum",
+    "sunda": "Ajer",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f05dfda6419d4d0ce2c",
+    "indonesia": "Itu",
+    "sunda": "Anu",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f0aff83891d0d1c16bb",
+    "indonesia": "HANTU",
+    "sunda": "RARIWA",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f0eff83891d0d1c16bf",
+    "indonesia": "Kemarin",
+    "sunda": "Kemaren",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f0fff83891d0d1c16c2",
+    "indonesia": "Jebol",
+    "sunda": "Mledos",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f1be8dfbf0d42154c62",
+    "indonesia": "Iya",
+    "sunda": "Koan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f26e8dfbf0d42154c6e",
+    "indonesia": "Mudah marah",
+    "sunda": "Ambekan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f2cff83891d0d1c16e3",
+    "indonesia": "JONGKOK ",
+    "sunda": "RONGGENG",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f34dfda6419d4d0ce65",
+    "indonesia": "Pergi",
+    "sunda": "Merad",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f37e8dfbf0d42154c73",
+    "indonesia": "Celana pendek",
+    "sunda": "Kolor",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f3e6871498a71b86549",
+    "indonesia": "Jelas",
+    "sunda": "Danta",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f41dfda6419d4d0ce74",
+    "indonesia": "RAKUS",
+    "sunda": "GERAGES",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f452d6eb9e34afea248",
+    "indonesia": "Suka",
+    "sunda": "Demen",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f4d2d6eb9e34afea24d",
+    "indonesia": "Ganteng",
+    "sunda": "Kasep",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f502d6eb9e34afea24f",
+    "indonesia": "Pelit",
+    "sunda": "Medit",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f552d6eb9e34afea257",
+    "indonesia": "Kalender",
+    "sunda": "Almenak",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f672d6eb9e34afea26b",
+    "indonesia": "Kuali",
+    "sunda": "Kekenceng",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f6fe8dfbf0d42154c91",
+    "indonesia": "Bebarengan",
+    "sunda": "Ambeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f712d6eb9e34afea27a",
+    "indonesia": "Sebentar",
+    "sunda": "Dulu",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f732d6eb9e34afea27f",
+    "indonesia": "Bangun tidur",
+    "sunda": "Medusin",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f79dfda6419d4d0cea6",
+    "indonesia": "Lupa",
+    "sunda": "Keder",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f79dfda6419d4d0cea8",
+    "indonesia": "Makan",
+    "sunda": "Dahar",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f822d6eb9e34afea298",
+    "indonesia": "MENCARI SESUATU DALAM KALENG",
+    "sunda": "ROGOH",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f862d6eb9e34afea29d",
+    "indonesia": "Asma",
+    "sunda": "Ampeg",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f8aff83891d0d1c172f",
+    "indonesia": "Mati",
+    "sunda": "Modar",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f8cdfda6419d4d0cecb",
+    "indonesia": "Ban penuh lumpur",
+    "sunda": "Dabel",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f912d6eb9e34afea2b2",
+    "indonesia": "RAME",
+    "sunda": "RESEP",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f95ff83891d0d1c173f",
+    "indonesia": "Bengong",
+    "sunda": "Melongo",
+    "__v": 0
+  },
+  {
+    "_id": "672d6f9dff83891d0d1c174e",
+    "indonesia": "Tidak dapat kebagian",
+    "sunda": "Kagak keduman",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fa2ff83891d0d1c1758",
+    "indonesia": "BARENG BARENG",
+    "sunda": "REMPONG",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fa43e0f42716c005b36",
+    "indonesia": "Berjatuhan",
+    "sunda": "Murag",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fb02d6eb9e34afea2bf",
+    "indonesia": "Bos",
+    "sunda": "Majikan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fb43e0f42716c005b4f",
+    "indonesia": "Tidak",
+    "sunda": "Kagak",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fb62d6eb9e34afea2c7",
+    "indonesia": "Rindu",
+    "sunda": "Dampyak",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fba3e0f42716c005b59",
+    "indonesia": "KAYAKNYA",
+    "sunda": "ROMANAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fc3dfda6419d4d0ceda",
+    "indonesia": "Bolak balik",
+    "sunda": "Amprah imprah",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fcdac33ea87d13fac16",
+    "indonesia": "JELEK",
+    "sunda": "ROMBENG",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fd0ac33ea87d13fac1d",
+    "indonesia": "Mendengarkan orang",
+    "sunda": "Denger",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fd0ac33ea87d13fac1f",
+    "indonesia": "Adik laki laki dari orang tua kita",
+    "sunda": "Mamang",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fd4dfda6419d4d0cee8",
+    "indonesia": "Tidak jelas",
+    "sunda": "Kagak danta",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fd92d6eb9e34afea2f4",
+    "indonesia": "Dapat",
+    "sunda": "Dapet",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fe7e8dfbf0d42154cdc",
+    "indonesia": "Sesaji untuk roh halus",
+    "sunda": "Anca",
+    "__v": 0
+  },
+  {
+    "_id": "672d6fe8e8dfbf0d42154ce0",
+    "indonesia": "Berdebar",
+    "sunda": "Deg - degan",
+    "__v": 0
+  },
+  {
+    "_id": "672d6feaac33ea87d13fac3a",
+    "indonesia": "Bardiam diri di rumah",
+    "sunda": "Metu",
+    "__v": 0
+  },
+  {
+    "_id": "672d6febe8dfbf0d42154ce2",
+    "indonesia": "HANCUR BERSERAKAN",
+    "sunda": "ROMBOK",
+    "__v": 0
+  },
+  {
+    "_id": "672d6ff5e8dfbf0d42154cf4",
+    "indonesia": "Orang yang disukai",
+    "sunda": "Demenan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7004ff83891d0d1c17bc",
+    "indonesia": "TERLALU MATANG",
+    "sunda": "RODOK",
+    "__v": 0
+  },
+  {
+    "_id": "672d7009ff83891d0d1c17c3",
+    "indonesia": "Tidak punya",
+    "sunda": "Kagak gableg",
+    "__v": 0
+  },
+  {
+    "_id": "672d7017ac9586d2c6d87cb2",
+    "indonesia": "Jaga jaga buat persiapan",
+    "sunda": "Ancer ancer",
+    "__v": 0
+  },
+  {
+    "_id": "672d7018b5f39bfaa1ec8399",
+    "indonesia": "Baju belum kering",
+    "sunda": "Demek",
+    "__v": 0
+  },
+  {
+    "_id": "672d701c44d9c3089f96dc75",
+    "indonesia": "Ngikutin",
+    "sunda": "Ngintilin",
+    "__v": 0
+  },
+  {
+    "_id": "672d7027b518346c8dce651b",
+    "indonesia": "Duduk sembarangan",
+    "sunda": "Deprok",
+    "__v": 0
+  },
+  {
+    "_id": "672d7029b518346c8dce651d",
+    "indonesia": "Tidak mampu",
+    "sunda": "Kaga menjes",
+    "__v": 0
+  },
+  {
+    "_id": "672d7035ac9586d2c6d87ccf",
+    "indonesia": "Menagih",
+    "sunda": "Menawar",
+    "__v": 0
+  },
+  {
+    "_id": "672d704244d9c3089f96dc8a",
+    "indonesia": "Musim",
+    "sunda": "Kamprah",
+    "__v": 0
+  },
+  {
+    "_id": "672d7058b5f39bfaa1ec83ae",
+    "indonesia": "Saku",
+    "sunda": "Kantong",
+    "__v": 0
+  },
+  {
+    "_id": "672d70656619fb7096bda448",
+    "indonesia": "Mancing",
+    "sunda": "Nguseup",
+    "__v": 0
+  },
+  {
+    "_id": "672d7071f168f6eac18a6d2f",
+    "indonesia": "TAKUT",
+    "sunda": "SIYEUN",
+    "__v": 0
+  },
+  {
+    "_id": "672d707bf168f6eac18a6d3d",
+    "indonesia": "Maarah",
+    "sunda": "Ngambek",
+    "__v": 0
+  },
+  {
+    "_id": "672d7082f168f6eac18a6d40",
+    "indonesia": "Diam saja",
+    "sunda": "Jempe",
+    "__v": 0
+  },
+  {
+    "_id": "672d708b6619fb7096bda463",
+    "indonesia": "TERKADANG",
+    "sunda": "SOKANAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d70916619fb7096bda46b",
+    "indonesia": "Bicara",
+    "sunda": "Ngomomb",
+    "__v": 0
+  },
+  {
+    "_id": "672d709bac9586d2c6d87ce5",
+    "indonesia": "SILAU",
+    "sunda": "SILO",
+    "__v": 0
+  },
+  {
+    "_id": "672d70a2ac9586d2c6d87cef",
+    "indonesia": "Pesta",
+    "sunda": "Kaulan",
+    "__v": 0
+  },
+  {
+    "_id": "672d70b6ac9586d2c6d87d08",
+    "indonesia": "Kenyang",
+    "sunda": "Kemlakaran",
+    "__v": 0
+  },
+  {
+    "_id": "672d70b7ac9586d2c6d87d0a",
+    "indonesia": "SENYUM",
+    "sunda": "SEURI",
+    "__v": 0
+  },
+  {
+    "_id": "672d70c06619fb7096bda482",
+    "indonesia": "Nama",
+    "sunda": "Ngaram",
+    "__v": 0
+  },
+  {
+    "_id": "672d70c2ac9586d2c6d87d1c",
+    "indonesia": "Mengarang",
+    "sunda": "Karangan",
+    "__v": 0
+  },
+  {
+    "_id": "672d70c3ac9586d2c6d87d1f",
+    "indonesia": "DUDUK",
+    "sunda": "SILA",
+    "__v": 0
+  },
+  {
+    "_id": "672d70cbac9586d2c6d87d2b",
+    "indonesia": "Kakek",
+    "sunda": "Engkong",
+    "__v": 0
+  },
+  {
+    "_id": "672d70d1b518346c8dce6557",
+    "indonesia": "TERSERAH",
+    "sunda": "SOMPLAK",
+    "__v": 0
+  },
+  {
+    "_id": "672d70dbb5f39bfaa1ec83e8",
+    "indonesia": "Ibu",
+    "sunda": "Enyak",
+    "__v": 0
+  },
+  {
+    "_id": "672d70dd6619fb7096bda499",
+    "indonesia": "SANA",
+    "sunda": "SONO",
+    "__v": 0
+  },
+  {
+    "_id": "672d70de6619fb7096bda49b",
+    "indonesia": "Daun pisang yang mengering",
+    "sunda": "Klaras",
+    "__v": 0
+  },
+  {
+    "_id": "672d70e4b5f39bfaa1ec83ed",
+    "indonesia": "Ngumpul",
+    "sunda": "Nimbrung",
+    "__v": 0
+  },
+  {
+    "_id": "672d70f3ac9586d2c6d87d4b",
+    "indonesia": "Basah ",
+    "sunda": "Klebes",
+    "__v": 0
+  },
+  {
+    "_id": "672d70fef168f6eac18a6d72",
+    "indonesia": "Menguap",
+    "sunda": "Angop",
+    "__v": 0
+  },
+  {
+    "_id": "672d7101f168f6eac18a6d7a",
+    "indonesia": "Bengkak muka",
+    "sunda": "Kebi",
+    "__v": 0
+  },
+  {
+    "_id": "672d7103ac9586d2c6d87d68",
+    "indonesia": "SODET",
+    "sunda": "SAMSIH",
+    "__v": 0
+  },
+  {
+    "_id": "672d7106f168f6eac18a6d80",
+    "indonesia": "Inceran",
+    "sunda": "Endekan",
+    "__v": 0
+  },
+  {
+    "_id": "672d710bac9586d2c6d87d77",
+    "indonesia": "Diem",
+    "sunda": "Ngajedok",
+    "__v": 0
+  },
+  {
+    "_id": "672d7115b518346c8dce657a",
+    "indonesia": "Sebentar dulu",
+    "sunda": "Embitan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7116f168f6eac18a6d90",
+    "indonesia": "SEGERA",
+    "sunda": "SIGRAH",
+    "__v": 0
+  },
+  {
+    "_id": "672d7125ac9586d2c6d87d93",
+    "indonesia": "Tidak mau",
+    "sunda": "Embung",
+    "__v": 0
+  },
+  {
+    "_id": "672d7126ac9586d2c6d87d95",
+    "indonesia": "Nyangkul",
+    "sunda": "Macul",
+    "__v": 0
+  },
+  {
+    "_id": "672d712bac9586d2c6d87d9b",
+    "indonesia": "Malas malasan",
+    "sunda": "Angotan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7131ac9586d2c6d87da1",
+    "indonesia": "Kamu",
+    "sunda": "Eluh",
+    "__v": 0
+  },
+  {
+    "_id": "672d7133f168f6eac18a6d9c",
+    "indonesia": "Rasa ingin bab",
+    "sunda": "Kebelet",
+    "__v": 0
+  },
+  {
+    "_id": "672d713eac9586d2c6d87daf",
+    "indonesia": "Gemeteran",
+    "sunda": "Eblek",
+    "__v": 0
+  },
+  {
+    "_id": "672d71446619fb7096bda4ec",
+    "indonesia": "Klereng",
+    "sunda": "Kleci",
+    "__v": 0
+  },
+  {
+    "_id": "672d71486619fb7096bda4f0",
+    "indonesia": "Menawarkan",
+    "sunda": "Nanjain",
+    "__v": 0
+  },
+  {
+    "_id": "672d714e6619fb7096bda4fe",
+    "indonesia": "Paman",
+    "sunda": "Encang",
+    "__v": 0
+  },
+  {
+    "_id": "672d7153f168f6eac18a6db8",
+    "indonesia": "Polisi tidur",
+    "sunda": "Anjlogan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7155b518346c8dce65b7",
+    "indonesia": "MENYURUH PERGI",
+    "sunda": "SOKAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d7157b5f39bfaa1ec845b",
+    "indonesia": "Sangat",
+    "sunda": "Emen",
+    "__v": 0
+  },
+  {
+    "_id": "672d7160b5f39bfaa1ec846d",
+    "indonesia": "Masuk dalam lumpur",
+    "sunda": "Kelumus",
+    "__v": 0
+  },
+  {
+    "_id": "672d716244d9c3089f96dcb6",
+    "indonesia": "Bibi",
+    "sunda": "Encing",
+    "__v": 0
+  },
+  {
+    "_id": "672d7162b518346c8dce65d3",
+    "indonesia": "Joget",
+    "sunda": "Nandak",
+    "__v": 0
+  },
+  {
+    "_id": "672d716ef168f6eac18a6dc2",
+    "indonesia": "MENYILANGKAN KEDUA TANGAN",
+    "sunda": "SEDAKEP",
+    "__v": 0
+  },
+  {
+    "_id": "672d7172f168f6eac18a6dc9",
+    "indonesia": "Jangan",
+    "sunda": "Engkong",
+    "__v": 0
+  },
+  {
+    "_id": "672d717db5f39bfaa1ec8474",
+    "indonesia": "JEMPUT",
+    "sunda": "SAMPER",
+    "__v": 0
+  },
+  {
+    "_id": "672d7183b518346c8dce65f3",
+    "indonesia": "Bt",
+    "sunda": "Ampyang",
+    "__v": 0
+  },
+  {
+    "_id": "672d7191b5f39bfaa1ec8489",
+    "indonesia": "SANGKET/KAIT",
+    "sunda": "SANGKET",
+    "__v": 0
+  },
+  {
+    "_id": "672d719cf168f6eac18a6dd9",
+    "indonesia": "SETIAP",
+    "sunda": "SABER",
+    "__v": 0
+  },
+  {
+    "_id": "672d719eb5f39bfaa1ec8496",
+    "indonesia": "Menoleh ke atas",
+    "sunda": "Ndangak",
+    "__v": 0
+  },
+  {
+    "_id": "672d71b1b5f39bfaa1ec84a6",
+    "indonesia": "TIMPUK PAKAI KAYU",
+    "sunda": "SRAMPUNG",
+    "__v": 0
+  },
+  {
+    "_id": "672d71b9f168f6eac18a6df5",
+    "indonesia": "Tertular ",
+    "sunda": "Nepa",
+    "__v": 0
+  },
+  {
+    "_id": "672d71bcf168f6eac18a6df9",
+    "indonesia": "Laper tapi sudah makan",
+    "sunda": "Anggon",
+    "__v": 0
+  },
+  {
+    "_id": "672d71c8b5f39bfaa1ec84bc",
+    "indonesia": "Tidak enak diam/gatal garuk",
+    "sunda": "Kekedik",
+    "__v": 0
+  },
+  {
+    "_id": "672d71cbb5f39bfaa1ec84c0",
+    "indonesia": "PATAH KAYU",
+    "sunda": "SEMPAL",
+    "__v": 0
+  },
+  {
+    "_id": "672d71d6f168f6eac18a6e15",
+    "indonesia": "Mendarat",
+    "sunda": "Neuba",
+    "__v": 0
+  },
+  {
+    "_id": "672d71d7f168f6eac18a6e18",
+    "indonesia": "Nanti",
+    "sunda": "Entar",
+    "__v": 0
+  },
+  {
+    "_id": "672d71e3b518346c8dce6646",
+    "indonesia": "Tempat tidur",
+    "sunda": "Kelambu",
+    "__v": 0
+  },
+  {
+    "_id": "672d71e9b518346c8dce664e",
+    "indonesia": "Bete",
+    "sunda": "Emet",
+    "__v": 0
+  },
+  {
+    "_id": "672d71eab518346c8dce6651",
+    "indonesia": "Berteduh",
+    "sunda": "Ngaub",
+    "__v": 0
+  },
+  {
+    "_id": "672d71eff168f6eac18a6e35",
+    "indonesia": "Tas",
+    "sunda": "Kempek",
+    "__v": 0
+  },
+  {
+    "_id": "672d71f4b518346c8dce665b",
+    "indonesia": "Garasi",
+    "sunda": "Emper",
+    "__v": 0
+  },
+  {
+    "_id": "672d71f5f168f6eac18a6e3e",
+    "indonesia": "BANYAK BANGET",
+    "sunda": "SENGENGKEAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d7208b5f39bfaa1ec84fa",
+    "indonesia": "Kasih",
+    "sunda": "Angsrongin",
+    "__v": 0
+  },
+  {
+    "_id": "672d7209b5f39bfaa1ec84fd",
+    "indonesia": "Pakai handuk",
+    "sunda": "Kekemben",
+    "__v": 0
+  },
+  {
+    "_id": "672d720df168f6eac18a6e65",
+    "indonesia": "Makan sarapan",
+    "sunda": "Ngarap",
+    "__v": 0
+  },
+  {
+    "_id": "672d720eb5f39bfaa1ec8508",
+    "indonesia": "Lubang angin",
+    "sunda": "Erang - erang",
+    "__v": 0
+  },
+  {
+    "_id": "672d720ef168f6eac18a6e68",
+    "indonesia": "SEMANGAT",
+    "sunda": "SEREGEP",
+    "__v": 0
+  },
+  {
+    "_id": "672d721a44d9c3089f96dcfb",
+    "indonesia": "Incer",
+    "sunda": "Edek",
+    "__v": 0
+  },
+  {
+    "_id": "672d7225b5f39bfaa1ec851e",
+    "indonesia": "Sendawa",
+    "sunda": "Atob",
+    "__v": 0
+  },
+  {
+    "_id": "672d7225634f49fd536a6987",
+    "indonesia": "Garuk garuk",
+    "sunda": "Kekedikan",
+    "__v": 0
+  },
+  {
+    "_id": "672d723444d9c3089f96dd12",
+    "indonesia": "CEPAT",
+    "sunda": "SESROGAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d723f44d9c3089f96dd26",
+    "indonesia": "Cocok tidak beralas kaki",
+    "sunda": "Nepak",
+    "__v": 0
+  },
+  {
+    "_id": "672d724644d9c3089f96dd2e",
+    "indonesia": "Terkenal",
+    "sunda": "Kesohor",
+    "__v": 0
+  },
+  {
+    "_id": "672d7249b5f39bfaa1ec8525",
+    "indonesia": "Saya",
+    "sunda": "Gua",
+    "__v": 0
+  },
+  {
+    "_id": "672d724eb5f39bfaa1ec852c",
+    "indonesia": "BANYAK",
+    "sunda": "SEABREG",
+    "__v": 0
+  },
+  {
+    "_id": "672d7256634f49fd536a699d",
+    "indonesia": "Empang",
+    "sunda": "Kobak",
+    "__v": 0
+  },
+  {
+    "_id": "672d725ab5f39bfaa1ec8537",
+    "indonesia": "Rajin",
+    "sunda": "Getol",
+    "__v": 0
+  },
+  {
+    "_id": "672d725ab5f39bfaa1ec8539",
+    "indonesia": "SEDIKIT",
+    "sunda": "SEUPRIT",
+    "__v": 0
+  },
+  {
+    "_id": "672d725cb518346c8dce66ab",
+    "indonesia": "Berantakan",
+    "sunda": "Ambak ambakan",
+    "__v": 0
+  },
+  {
+    "_id": "672d726d1d1aa1c8234dde12",
+    "indonesia": "Mangkuk berisi air",
+    "sunda": "Kobokan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7270135a337b4ab74a06",
+    "indonesia": "Pergi dengan mengusir",
+    "sunda": "Sono",
+    "__v": 0
+  },
+  {
+    "_id": "672d72727e8a34b92a425d42",
+    "indonesia": "Nakal",
+    "sunda": "Agul agulan",
+    "__v": 0
+  },
+  {
+    "_id": "672d728647624a7bd2a17ee6",
+    "indonesia": "PENGAP",
+    "sunda": "SUMPEK",
+    "__v": 0
+  },
+  {
+    "_id": "672d728c869ea725823d37d9",
+    "indonesia": "Memaksa melihat",
+    "sunda": "Njlenger",
+    "__v": 0
+  },
+  {
+    "_id": "672d729b4ee5f0570719b8fc",
+    "indonesia": "Hati hati",
+    "sunda": "Bae bae",
+    "__v": 0
+  },
+  {
+    "_id": "672d729c4ee5f0570719b8fe",
+    "indonesia": "KAMAR MANDI",
+    "sunda": "SUMUR",
+    "__v": 0
+  },
+  {
+    "_id": "672d72ae869ea725823d37f7",
+    "indonesia": "Sombong",
+    "sunda": "Ngagul",
+    "__v": 0
+  },
+  {
+    "_id": "672d72b4869ea725823d3801",
+    "indonesia": "SULIT MISKIN",
+    "sunda": "SUSAH",
+    "__v": 0
+  },
+  {
+    "_id": "672d72ba0014fa5cb38c2b3b",
+    "indonesia": "Bekerja",
+    "sunda": "Begawe",
+    "__v": 0
+  },
+  {
+    "_id": "672d72c50014fa5cb38c2b4e",
+    "indonesia": "Terbuka",
+    "sunda": "Ngejeblag",
+    "__v": 0
+  },
+  {
+    "_id": "672d72c94ee5f0570719b91a",
+    "indonesia": "Seneng",
+    "sunda": "Bungah",
+    "__v": 0
+  },
+  {
+    "_id": "672d72cd0014fa5cb38c2b5d",
+    "indonesia": "Selokan",
+    "sunda": "Koco",
+    "__v": 0
+  },
+  {
+    "_id": "672d72d50014fa5cb38c2b69",
+    "indonesia": "BUKU",
+    "sunda": "SINGKAT",
+    "__v": 0
+  },
+  {
+    "_id": "672d72d94ee5f0570719b92c",
+    "indonesia": "Cantik",
+    "sunda": "Boto",
+    "__v": 0
+  },
+  {
+    "_id": "672d72da0014fa5cb38c2b70",
+    "indonesia": "Bersandar",
+    "sunda": "Ngemped",
+    "__v": 0
+  },
+  {
+    "_id": "672d72de869ea725823d380a",
+    "indonesia": "Ngobrol",
+    "sunda": "Kongkok",
+    "__v": 0
+  },
+  {
+    "_id": "672d72f2634f49fd536a69c0",
+    "indonesia": "AMBIL BUAH DARI POHON",
+    "sunda": "SENGGET",
+    "__v": 0
+  },
+  {
+    "_id": "672d72fcae50c767f1d48c28",
+    "indonesia": "Serbu",
+    "sunda": "Keroyok",
+    "__v": 0
+  },
+  {
+    "_id": "672d72fcae50c767f1d48c2a",
+    "indonesia": "Tidak mengerti",
+    "sunda": "Ga mudeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d7302634f49fd536a69cc",
+    "indonesia": "Tempat duduk ",
+    "sunda": "Bale",
+    "__v": 0
+  },
+  {
+    "_id": "672d7307ae50c767f1d48c3b",
+    "indonesia": "Menjalar",
+    "sunda": "Ngembed",
+    "__v": 0
+  },
+  {
+    "_id": "672d730e634f49fd536a69de",
+    "indonesia": "Senang ",
+    "sunda": "Girang",
+    "__v": 0
+  },
+  {
+    "_id": "672d731d634f49fd536a69e9",
+    "indonesia": "Beruntun",
+    "sunda": "Barerod",
+    "__v": 0
+  },
+  {
+    "_id": "672d7322ae50c767f1d48c46",
+    "indonesia": "Juga",
+    "sunda": "Ge",
+    "__v": 0
+  },
+  {
+    "_id": "672d7330fe5fbc5911883472",
+    "indonesia": "Panci",
+    "sunda": "Gidir",
+    "__v": 0
+  },
+  {
+    "_id": "672d733547624a7bd2a17efa",
+    "indonesia": "SAMAR",
+    "sunda": "SARU",
+    "__v": 0
+  },
+  {
+    "_id": "672d733af168f6eac18a6e89",
+    "indonesia": "Mengambil tidak izin",
+    "sunda": "Ngembat",
+    "__v": 0
+  },
+  {
+    "_id": "672d733ff168f6eac18a6e91",
+    "indonesia": "Berisik",
+    "sunda": "Gandeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d734e135a337b4ab74a29",
+    "indonesia": "Lubang besar",
+    "sunda": "Gobangan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7351135a337b4ab74a2d",
+    "indonesia": "Mengumpul",
+    "sunda": "Krubutin",
+    "__v": 0
+  },
+  {
+    "_id": "672d735fae50c767f1d48c75",
+    "indonesia": "Pecah",
+    "sunda": "Gompal",
+    "__v": 0
+  },
+  {
+    "_id": "672d7372f168f6eac18a6eb1",
+    "indonesia": "Tali yang melilit",
+    "sunda": "Begubed",
+    "__v": 0
+  },
+  {
+    "_id": "672d738cae50c767f1d48c9c",
+    "indonesia": "Teriak",
+    "sunda": "Gegerawakan",
+    "__v": 0
+  },
+  {
+    "_id": "672d74217e8a34b92a425d7a",
+    "indonesia": "BODOH",
+    "sunda": "TEBLEG",
+    "__v": 0
+  },
+  {
+    "_id": "672d7429ae50c767f1d48cb6",
+    "indonesia": "Memanggil",
+    "sunda": "Gergan",
+    "__v": 0
+  },
+  {
+    "_id": "672d742bae50c767f1d48cb8",
+    "indonesia": "Istirahat",
+    "sunda": "Ngasoh",
+    "__v": 0
+  },
+  {
+    "_id": "672d74364ee5f0570719b95e",
+    "indonesia": "RAPUH",
+    "sunda": "TEPO",
+    "__v": 0
+  },
+  {
+    "_id": "672d74374ee5f0570719b960",
+    "indonesia": "Jelek",
+    "sunda": "Butut",
+    "__v": 0
+  },
+  {
+    "_id": "672d743bae50c767f1d48cd6",
+    "indonesia": "Memanaskan tubuh",
+    "sunda": "Gegeni",
+    "__v": 0
+  },
+  {
+    "_id": "672d743dae50c767f1d48cd8",
+    "indonesia": "Santai",
+    "sunda": "Jonjon",
+    "__v": 0
+  },
+  {
+    "_id": "672d74434ee5f0570719b977",
+    "indonesia": "TAMPAR",
+    "sunda": "TABOK",
+    "__v": 0
+  },
+  {
+    "_id": "672d744a7e8a34b92a425d9b",
+    "indonesia": "Rewel",
+    "sunda": "Bawel",
+    "__v": 0
+  },
+  {
+    "_id": "672d74517e8a34b92a425dab",
+    "indonesia": "Duduk tanpa aturan",
+    "sunda": "Gesor",
+    "__v": 0
+  },
+  {
+    "_id": "672d74537e8a34b92a425dae",
+    "indonesia": "TIKAR",
+    "sunda": "TIKER",
+    "__v": 0
+  },
+  {
+    "_id": "672d74554ee5f0570719b992",
+    "indonesia": "Pagar bambu",
+    "sunda": "Jaro",
+    "__v": 0
+  },
+  {
+    "_id": "672d745c4ee5f0570719b99f",
+    "indonesia": "Cari tempat berteduh",
+    "sunda": "Ngaub",
+    "__v": 0
+  },
+  {
+    "_id": "672d745d4ee5f0570719b9a4",
+    "indonesia": "Hajar",
+    "sunda": "Geprak",
+    "__v": 0
+  },
+  {
+    "_id": "672d74621d1aa1c8234dde1c",
+    "indonesia": "Beres beres",
+    "sunda": "Bebenah",
+    "__v": 0
+  },
+  {
+    "_id": "672d74644ee5f0570719b9b1",
+    "indonesia": "Orang",
+    "sunda": "Jalma",
+    "__v": 0
+  },
+  {
+    "_id": "672d746a1d1aa1c8234dde28",
+    "indonesia": "SENDOK",
+    "sunda": "TESI",
+    "__v": 0
+  },
+  {
+    "_id": "672d74711d1aa1c8234dde2f",
+    "indonesia": "Bandel",
+    "sunda": "Janggala",
+    "__v": 0
+  },
+  {
+    "_id": "672d7480b5f39bfaa1ec8562",
+    "indonesia": "CUMA",
+    "sunda": "TIMBANG",
+    "__v": 0
+  },
+  {
+    "_id": "672d7480b5f39bfaa1ec8564",
+    "indonesia": "Dorong",
+    "sunda": "Jorogin",
+    "__v": 0
+  },
+  {
+    "_id": "672d74843d105950a7d5028e",
+    "indonesia": "Mengembang",
+    "sunda": "Beukan",
+    "__v": 0
+  },
+  {
+    "_id": "672d74853d105950a7d50290",
+    "indonesia": "Mencari barang",
+    "sunda": "Ngratak",
+    "__v": 0
+  },
+  {
+    "_id": "672d748c4770b559d2e8d9d0",
+    "indonesia": "Muntah",
+    "sunda": "Gumoh",
+    "__v": 0
+  },
+  {
+    "_id": "672d74971d1aa1c8234dde37",
+    "indonesia": "TUMPAH",
+    "sunda": "TUMBLEK",
+    "__v": 0
+  },
+  {
+    "_id": "672d749b4770b559d2e8d9df",
+    "indonesia": "Ngeladenin",
+    "sunda": "Jampangin",
+    "__v": 0
+  },
+  {
+    "_id": "672d74a64ef17f2ed748b1b4",
+    "indonesia": "Banyak bicara",
+    "sunda": "Bacot",
+    "__v": 0
+  },
+  {
+    "_id": "672d74aa2d6eb9e34afea324",
+    "indonesia": "BAKAR",
+    "sunda": "TAMBUS",
+    "__v": 0
+  },
+  {
+    "_id": "672d74ad4ef17f2ed748b1bf",
+    "indonesia": "Masuk ruang tamu",
+    "sunda": "Jojogan",
+    "__v": 0
+  },
+  {
+    "_id": "672d74b04ef17f2ed748b1c2",
+    "indonesia": "Berenang di lumpur",
+    "sunda": "Gupak",
+    "__v": 0
+  },
+  {
+    "_id": "672d74b54ee5f0570719b9e4",
+    "indonesia": "Bapak",
+    "sunda": "Babeh",
+    "__v": 0
+  },
+  {
+    "_id": "672d74b8ae50c767f1d48d36",
+    "indonesia": "NAIK",
+    "sunda": "TAEK",
+    "__v": 0
+  },
+  {
+    "_id": "672d74b8ae50c767f1d48d38",
+    "indonesia": "Kotor",
+    "sunda": "Jorok",
+    "__v": 0
+  },
+  {
+    "_id": "672d74c54ee5f0570719b9f7",
+    "indonesia": "Jijik",
+    "sunda": "Jember",
+    "__v": 0
+  },
+  {
+    "_id": "672d74cfae50c767f1d48d5a",
+    "indonesia": "Gerah/panas",
+    "sunda": "Ngelekeb",
+    "__v": 0
+  },
+  {
+    "_id": "672d74d62d6eb9e34afea348",
+    "indonesia": "Berdiri",
+    "sunda": "Jogrog",
+    "__v": 0
+  },
+  {
+    "_id": "672d74d8ae50c767f1d48d61",
+    "indonesia": "MENAMPAR DI BAGIAN PUNGGUNG",
+    "sunda": "TEBLAK",
+    "__v": 0
+  },
+  {
+    "_id": "672d74d94ef17f2ed748b1ce",
+    "indonesia": "Bersama",
+    "sunda": "Bareng",
+    "__v": 0
+  },
+  {
+    "_id": "672d74e34ef17f2ed748b1de",
+    "indonesia": "Takjub",
+    "sunda": "Gundam",
+    "__v": 0
+  },
+  {
+    "_id": "672d74ed3d105950a7d502a4",
+    "indonesia": "Bertengkar",
+    "sunda": "Berantem",
+    "__v": 0
+  },
+  {
+    "_id": "672d74ee3d105950a7d502a7",
+    "indonesia": "Sampai",
+    "sunda": "Nyampe",
+    "__v": 0
+  },
+  {
+    "_id": "672d74f39c3806fc138ad901",
+    "indonesia": "Bolong/rusak",
+    "sunda": "Jebol",
+    "__v": 0
+  },
+  {
+    "_id": "672d74fc2d6eb9e34afea369",
+    "indonesia": "Saja",
+    "sunda": "Bae",
+    "__v": 0
+  },
+  {
+    "_id": "672d74fd2d6eb9e34afea36b",
+    "indonesia": "PERCIKAN HUJAN DARI ATAS GENTENG",
+    "sunda": "TEMPIAS",
+    "__v": 0
+  },
+  {
+    "_id": "672d75023d105950a7d502b5",
+    "indonesia": "Yang",
+    "sunda": "Nyeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d75092d6eb9e34afea37a",
+    "indonesia": "Loh kok",
+    "sunda": "Idih",
+    "__v": 0
+  },
+  {
+    "_id": "672d750b3d105950a7d502c0",
+    "indonesia": "Bahagia",
+    "sunda": "Girang",
+    "__v": 0
+  },
+  {
+    "_id": "672d750f2d6eb9e34afea383",
+    "indonesia": "Bahagia",
+    "sunda": "Girang",
+    "__v": 0
+  },
+  {
+    "_id": "672d751a4ef17f2ed748b1fc",
+    "indonesia": "Memetik",
+    "sunda": "Nyengget",
+    "__v": 0
+  },
+  {
+    "_id": "672d75229c3806fc138ad934",
+    "indonesia": "SUKA BENGONG",
+    "sunda": "TENGGENGAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d75223d105950a7d502dd",
+    "indonesia": "Turun",
+    "sunda": "Grojok",
+    "__v": 0
+  },
+  {
+    "_id": "672d75224ef17f2ed748b207",
+    "indonesia": "Melihat",
+    "sunda": "Intip",
+    "__v": 0
+  },
+  {
+    "_id": "672d7533ae50c767f1d48d81",
+    "indonesia": "Diinjak",
+    "sunda": "Iles",
+    "__v": 0
+  },
+  {
+    "_id": "672d75333d105950a7d502ee",
+    "indonesia": "Sementara",
+    "sunda": "Babar",
+    "__v": 0
+  },
+  {
+    "_id": "672d7535ae50c767f1d48d87",
+    "indonesia": "Orang nya ramai",
+    "sunda": "Grecek",
+    "__v": 0
+  },
+  {
+    "_id": "672d753c4ee5f0570719ba20",
+    "indonesia": "MEMANJAT",
+    "sunda": "TATAEKKAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d75404ee5f0570719ba2a",
+    "indonesia": "Air liur",
+    "sunda": "Iler",
+    "__v": 0
+  },
+  {
+    "_id": "672d75403d105950a7d502ff",
+    "indonesia": "Bersin",
+    "sunda": "Bangkis",
+    "__v": 0
+  },
+  {
+    "_id": "672d754a3d105950a7d50310",
+    "indonesia": "Masa iya",
+    "sunda": "Ilokan",
+    "__v": 0
+  },
+  {
+    "_id": "672d75624faa522c8d371f75",
+    "indonesia": "Inceranii",
+    "sunda": "Inggoan",
+    "__v": 0
+  },
+  {
+    "_id": "672d756ac866ffc57e9f3aa0",
+    "indonesia": "Udah tua",
+    "sunda": "Bangkotan",
+    "__v": 0
+  },
+  {
+    "_id": "672d757ae48c99fcd4cfba62",
+    "indonesia": "Hujan",
+    "sunda": "Ujan",
+    "__v": 0
+  },
+  {
+    "_id": "672d757ae48c99fcd4cfba64",
+    "indonesia": "Lapar",
+    "sunda": "Lapar",
+    "__v": 0
+  },
+  {
+    "_id": "672d7583e48c99fcd4cfba75",
+    "indonesia": "Menjadi",
+    "sunda": "Bakalan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7586c866ffc57e9f3ac8",
+    "indonesia": "TEMPAT JATUH NYA AIR DI BAWAH GENTING",
+    "sunda": "TRITIPAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d75894faa522c8d371f92",
+    "indonesia": "Lambat",
+    "sunda": "Lelet",
+    "__v": 0
+  },
+  {
+    "_id": "672d7597c866ffc57e9f3ad3",
+    "indonesia": "Hantu",
+    "sunda": "Rariwa",
+    "__v": 0
+  },
+  {
+    "_id": "672d759a037a32a5cb964d2b",
+    "indonesia": "Perbatasan",
+    "sunda": "Batian",
+    "__v": 0
+  },
+  {
+    "_id": "672d75a14faa522c8d371fb1",
+    "indonesia": "TERKEJUT",
+    "sunda": "TEKELAP",
+    "__v": 0
+  },
+  {
+    "_id": "672d75a2e48c99fcd4cfba88",
+    "indonesia": "Tangan",
+    "sunda": "Lengan",
+    "__v": 0
+  },
+  {
+    "_id": "672d75a9037a32a5cb964d40",
+    "indonesia": "Sambil",
+    "sunda": "Bari",
+    "__v": 0
+  },
+  {
+    "_id": "672d75acc03f8b453aa65d19",
+    "indonesia": "Melihat lihat",
+    "sunda": "Ngimpleng",
+    "__v": 0
+  },
+  {
+    "_id": "672d75b0c03f8b453aa65d1f",
+    "indonesia": "Banyak",
+    "sunda": "Loba",
+    "__v": 0
+  },
+  {
+    "_id": "672d75b4e48c99fcd4cfba9f",
+    "indonesia": "KEBIASAAN",
+    "sunda": "TUMAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d75b67e8a34b92a425deb",
+    "indonesia": "Tempurung",
+    "sunda": "Batok",
+    "__v": 0
+  },
+  {
+    "_id": "672d75bf7e8a34b92a425df9",
+    "indonesia": "Pusing",
+    "sunda": "Lier",
+    "__v": 0
+  },
+  {
+    "_id": "672d75ca4faa522c8d371fc4",
+    "indonesia": "Tidur",
+    "sunda": "Hees",
+    "__v": 0
+  },
+  {
+    "_id": "672d75cd7e8a34b92a425e03",
+    "indonesia": "SUKA PEDAGANG",
+    "sunda": "TUKANG",
+    "__v": 0
+  },
+  {
+    "_id": "672d75cf4faa522c8d371fcb",
+    "indonesia": "Tanah samping rumah",
+    "sunda": "Bebatur",
+    "__v": 0
+  },
+  {
+    "_id": "672d75d3037a32a5cb964d5e",
+    "indonesia": "Pinjam",
+    "sunda": "Nginjem",
+    "__v": 0
+  },
+  {
+    "_id": "672d75db037a32a5cb964d67",
+    "indonesia": "Sapu",
+    "sunda": "Lidi",
+    "__v": 0
+  },
+  {
+    "_id": "672d75df4faa522c8d371fd6",
+    "indonesia": "Engap",
+    "sunda": "Begah",
+    "__v": 0
+  },
+  {
+    "_id": "672d75e2037a32a5cb964d71",
+    "indonesia": "BAWA",
+    "sunda": "TENTENG",
+    "__v": 0
+  },
+  {
+    "_id": "672d75ec4faa522c8d371fed",
+    "indonesia": "Sesak napas",
+    "sunda": "Bengek",
+    "__v": 0
+  },
+  {
+    "_id": "672d75f27e8a34b92a425e20",
+    "indonesia": "PANTES",
+    "sunda": "URUP",
+    "__v": 0
+  },
+  {
+    "_id": "672d75f57e8a34b92a425e2a",
+    "indonesia": "Tinggi",
+    "sunda": "Luhur",
+    "__v": 0
+  },
+  {
+    "_id": "672d75ffae50c767f1d48ddc",
+    "indonesia": "Cowo",
+    "sunda": "Laki",
+    "__v": 0
+  },
+  {
+    "_id": "672d75ff4faa522c8d37200a",
+    "indonesia": "HUJAN",
+    "sunda": "UJAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d760a4faa522c8d372019",
+    "indonesia": "Kipasan menggunakan kipas bambungimplik",
+    "sunda": "Ngimplik",
+    "__v": 0
+  },
+  {
+    "_id": "672d76117e8a34b92a425e48",
+    "indonesia": "LANTAI",
+    "sunda": "UBIN",
+    "__v": 0
+  },
+  {
+    "_id": "672d7619ae50c767f1d48e01",
+    "indonesia": "Meluruskan kaki",
+    "sunda": "Melonjor",
+    "__v": 0
+  },
+  {
+    "_id": "672d7619e48c99fcd4cfbad7",
+    "indonesia": "Hutan",
+    "sunda": "Leweng",
+    "__v": 0
+  },
+  {
+    "_id": "672d761f4faa522c8d372026",
+    "indonesia": "MAIN",
+    "sunda": "ULIN",
+    "__v": 0
+  },
+  {
+    "_id": "672d7623ae50c767f1d48e0a",
+    "indonesia": "Jongkok",
+    "sunda": "Nongkrong",
+    "__v": 0
+  },
+  {
+    "_id": "672d76284faa522c8d372038",
+    "indonesia": "Jalan",
+    "sunda": "Leumpang",
+    "__v": 0
+  },
+  {
+    "_id": "672d762cae50c767f1d48e18",
+    "indonesia": "Gigi",
+    "sunda": "Huntu",
+    "__v": 0
+  },
+  {
+    "_id": "672d762dae50c767f1d48e1a",
+    "indonesia": "KEJAR",
+    "sunda": "UDAG",
+    "__v": 0
+  },
+  {
+    "_id": "672d763ae48c99fcd4cfbb01",
+    "indonesia": "Sedang",
+    "sunda": "Lagi",
+    "__v": 0
+  },
+  {
+    "_id": "672d763be48c99fcd4cfbb03",
+    "indonesia": "Rakus",
+    "sunda": "Belis",
+    "__v": 0
+  },
+  {
+    "_id": "672d76417e8a34b92a425e5a",
+    "indonesia": "PENDING",
+    "sunda": "UDU",
+    "__v": 0
+  },
+  {
+    "_id": "672d7646037a32a5cb964d95",
+    "indonesia": "Lakukan",
+    "sunda": "Lakonin",
+    "__v": 0
+  },
+  {
+    "_id": "672d764f7e8a34b92a425e77",
+    "indonesia": "Jatuh bagian muka dulu",
+    "sunda": "Nyungseb",
+    "__v": 0
+  },
+  {
+    "_id": "672d76527e8a34b92a425e79",
+    "indonesia": "Tarik",
+    "sunda": "Betot",
+    "__v": 0
+  },
+  {
+    "_id": "672d76527e8a34b92a425e7c",
+    "indonesia": "Habisnya",
+    "sunda": "Andenya",
+    "__v": 0
+  },
+  {
+    "_id": "672d76557e8a34b92a425e83",
+    "indonesia": "Halaman",
+    "sunda": "Lantar",
+    "__v": 0
+  },
+  {
+    "_id": "672d76637e8a34b92a425e9e",
+    "indonesia": "Laki laki ",
+    "sunda": "Lanang",
+    "__v": 0
+  },
+  {
+    "_id": "672d76637e8a34b92a425ea0",
+    "indonesia": "Mengantarkan makanan",
+    "sunda": "Nyorog",
+    "__v": 0
+  },
+  {
+    "_id": "672d7663037a32a5cb964db9",
+    "indonesia": "Buang air besar",
+    "sunda": "Berak",
+    "__v": 0
+  },
+  {
+    "_id": "672d7665037a32a5cb964dbc",
+    "indonesia": "Tiray",
+    "sunda": "Hordeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d76727e8a34b92a425ebd",
+    "indonesia": "Kaget",
+    "sunda": "Lolongo",
+    "__v": 0
+  },
+  {
+    "_id": "672d76733d105950a7d5031f",
+    "indonesia": "Robek",
+    "sunda": "Beset",
+    "__v": 0
+  },
+  {
+    "_id": "672d7685c03f8b453aa65d74",
+    "indonesia": "Bisa",
+    "sunda": "Begug",
+    "__v": 0
+  },
+  {
+    "_id": "672d76881d1aa1c8234dde53",
+    "indonesia": "DALAM RUMAH ANTARA KUDA KUDA",
+    "sunda": "UWUNGAN",
+    "__v": 0
+  },
+  {
+    "_id": "672d768ec03f8b453aa65d7a",
+    "indonesia": "Gaya",
+    "sunda": "Hebring",
+    "__v": 0
+  },
+  {
+    "_id": "672d768e1d1aa1c8234dde5a",
+    "indonesia": "Penuh",
+    "sunda": "Luber",
+    "__v": 0
+  },
+  {
+    "_id": "672d7692c866ffc57e9f3b02",
+    "indonesia": "Genangan air",
+    "sunda": "Becek",
+    "__v": 0
+  },
+  {
+    "_id": "672d76954770b559d2e8d9fa",
+    "indonesia": "HAPUS",
+    "sunda": "USEK",
+    "__v": 0
+  },
+  {
+    "_id": "672d769fc03f8b453aa65d86",
+    "indonesia": "KHUSUS ",
+    "sunda": "UPLEK",
+    "__v": 0
+  },
+  {
+    "_id": "672d76a2c03f8b453aa65d8a",
+    "indonesia": "Lihat",
+    "sunda": "Liat",
+    "__v": 0
+  },
+  {
+    "_id": "672d76a5c03f8b453aa65d8f",
+    "indonesia": "Tidak percaya",
+    "sunda": "Ilok",
+    "__v": 0
+  },
+  {
+    "_id": "672d76aa4770b559d2e8da10",
+    "indonesia": "PANGGIL",
+    "sunda": "WOY",
+    "__v": 0
+  },
+  {
+    "_id": "672d76af1d1aa1c8234dde7e",
+    "indonesia": "Sangat empuk",
+    "sunda": "Lodoh",
+    "__v": 0
+  },
+  {
+    "_id": "672d76b0c866ffc57e9f3b2c",
+    "indonesia": "Kejar",
+    "sunda": "Oyok-oyok",
+    "__v": 0
+  },
+  {
+    "_id": "672d76b1c866ffc57e9f3b2e",
+    "indonesia": "Hidung",
+    "sunda": "Irung",
+    "__v": 0
+  },
+  {
+    "_id": "672d76b61d1aa1c8234dde85",
+    "indonesia": "BARAT",
+    "sunda": "WULON",
+    "__v": 0
+  },
+  {
+    "_id": "672d76c11d1aa1c8234dde96",
+    "indonesia": "Kurang mengerti",
+    "sunda": "Idep",
+    "__v": 0
+  },
+  {
+    "_id": "672d76c7c03f8b453aa65daa",
+    "indonesia": "TIDAK PERCAYA",
+    "sunda": "WAILAH",
+    "__v": 0
+  },
+  {
+    "_id": "672d76c81d1aa1c8234ddea6",
+    "indonesia": "Ubin",
+    "sunda": "Lantai",
+    "__v": 0
+  },
+  {
+    "_id": "672d76cdc03f8b453aa65db1",
+    "indonesia": "Besok",
+    "sunda": "Esok",
+    "__v": 0
+  },
+  {
+    "_id": "672d76d3c03f8b453aa65dbb",
+    "indonesia": "Gak jelas",
+    "sunda": "Ora danta pisan",
+    "__v": 0
+  },
+  {
+    "_id": "672d76d7c03f8b453aa65dc6",
+    "indonesia": "Mengintip",
+    "sunda": "Impeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d76d8c03f8b453aa65dc8",
+    "indonesia": "PEREMPUAN",
+    "sunda": "WADON",
+    "__v": 0
+  },
+  {
+    "_id": "672d76e4ae50c767f1d48e52",
+    "indonesia": "Lusa",
+    "sunda": "Besokna",
+    "__v": 0
+  },
+  {
+    "_id": "672d76e4c03f8b453aa65dcf",
+    "indonesia": "WAKTU",
+    "sunda": "WAYA",
+    "__v": 0
+  },
+  {
+    "_id": "672d76e61d1aa1c8234ddebb",
+    "indonesia": "Malu",
+    "sunda": "Isin",
+    "__v": 0
+  },
+  {
+    "_id": "672d76f2c03f8b453aa65de5",
+    "indonesia": "BOLAK BALIK",
+    "sunda": "WARA WARI",
+    "__v": 0
+  },
+  {
+    "_id": "672d76f8c03f8b453aa65df5",
+    "indonesia": "Istri",
+    "sunda": "Bini",
+    "__v": 0
+  },
+  {
+    "_id": "672d77071d1aa1c8234ddee2",
+    "indonesia": "Bagi",
+    "sunda": "Minta",
+    "__v": 0
+  },
+  {
+    "_id": "672d770d1d1aa1c8234ddee7",
+    "indonesia": "Kayak[pohon berbuah]",
+    "sunda": "Orak",
+    "__v": 0
+  },
+  {
+    "_id": "672d77111d1aa1c8234ddeef",
+    "indonesia": "Angkat",
+    "sunda": "Bopong",
+    "__v": 0
+  },
+  {
+    "_id": "672d7720ae50c767f1d48e85",
+    "indonesia": "Manjat",
+    "sunda": "Mendaki",
+    "__v": 0
+  },
+  {
+    "_id": "672d7721ae50c767f1d48e89",
+    "indonesia": "Pendek",
+    "sunda": "Pondok",
+    "__v": 0
+  },
+  {
+    "_id": "672d772b4770b559d2e8da7d",
+    "indonesia": "Atap",
+    "sunda": "Para",
+    "__v": 0
+  },
+  {
+    "_id": "672d7730c03f8b453aa65df9",
+    "indonesia": "Nangis",
+    "sunda": "Mewek",
+    "__v": 0
+  },
+  {
+    "_id": "672d77354770b559d2e8da86",
+    "indonesia": "Padi",
+    "sunda": "Pare",
+    "__v": 0
+  },
+  {
+    "_id": "672d773bc03f8b453aa65e0c",
+    "indonesia": "Sudah menangkap pembelajaran",
+    "sunda": "Bebel",
+    "__v": 0
+  },
+  {
+    "_id": "672d7743c03f8b453aa65e19",
+    "indonesia": "Cau",
+    "sunda": "Pisang",
+    "__v": 0
+  },
+  {
+    "_id": "672d774b1d1aa1c8234ddf10",
+    "indonesia": "Meninggal",
+    "sunda": "Mati",
+    "__v": 0
+  },
+  {
+    "_id": "672d7750ae50c767f1d48e9d",
+    "indonesia": "Memang kenapa",
+    "sunda": "Bongan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7752ae50c767f1d48ea3",
+    "indonesia": "Tanaman",
+    "sunda": "Papelakan",
+    "__v": 0
+  },
+  {
+    "_id": "672d775d1d1aa1c8234ddf23",
+    "indonesia": "Patah",
+    "sunda": "Potek",
+    "__v": 0
+  },
+  {
+    "_id": "672d776ac03f8b453aa65e38",
+    "indonesia": "Kakak perempuan",
+    "sunda": "Mpok",
+    "__v": 0
+  },
+  {
+    "_id": "672d7776ae50c767f1d48ec4",
+    "indonesia": "Lebam bekas pukulan",
+    "sunda": "Bonyok",
+    "__v": 0
+  },
+  {
+    "_id": "672d7780ae50c767f1d48ed6",
+    "indonesia": "Pagar",
+    "sunda": "Jaro",
+    "__v": 0
+  },
+  {
+    "_id": "672d7786ae50c767f1d48ee2",
+    "indonesia": "Bau apek",
+    "sunda": "Bonto",
+    "__v": 0
+  },
+  {
+    "_id": "672d778b1d1aa1c8234ddf4c",
+    "indonesia": "Bombon ",
+    "sunda": "Permen",
+    "__v": 0
+  },
+  {
+    "_id": "672d7794ae50c767f1d48ef4",
+    "indonesia": "Ampar amparan",
+    "sunda": "Murag",
+    "__v": 0
+  },
+  {
+    "_id": "672d779e1d1aa1c8234ddf5a",
+    "indonesia": "Biarkan",
+    "sunda": "Bodonanan",
+    "__v": 0
+  },
+  {
+    "_id": "672d77a6ae50c767f1d48f0f",
+    "indonesia": "Mengerti",
+    "sunda": "Mudeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d77b11d1aa1c8234ddf72",
+    "indonesia": "Pintu",
+    "sunda": "Pento",
+    "__v": 0
+  },
+  {
+    "_id": "672d77b8c03f8b453aa65e51",
+    "indonesia": "Mangkuk dari kaleng",
+    "sunda": "Bokor",
+    "__v": 0
+  },
+  {
+    "_id": "672d77ce037a32a5cb964deb",
+    "indonesia": "Buyar",
+    "sunda": "Budar",
+    "__v": 0
+  },
+  {
+    "_id": "672d77d53d105950a7d50347",
+    "indonesia": "Sebuntar",
+    "sunda": "Pulu",
+    "__v": 0
+  },
+  {
+    "_id": "672d77e2b5f39bfaa1ec8580",
+    "indonesia": "Ambil",
+    "sunda": "Pungut",
+    "__v": 0
+  },
+  {
+    "_id": "672d77f3b5f39bfaa1ec8588",
+    "indonesia": "Terkejut",
+    "sunda": "Bujuk buneng",
+    "__v": 0
+  },
+  {
+    "_id": "672d77fe3d105950a7d50373",
+    "indonesia": "Pagi-pagi sekali",
+    "sunda": "Pagi-pagi buta",
+    "__v": 0
+  },
+  {
+    "_id": "672d780a3d105950a7d5037d",
+    "indonesia": "Kepala",
+    "sunda": "Pala",
+    "__v": 0
+  },
+  {
+    "_id": "672d7819b5f39bfaa1ec858e",
+    "indonesia": "Sepertinya",
+    "sunda": "Kangasan",
+    "__v": 0
+  },
+  {
+    "_id": "672d7828b5f39bfaa1ec85a0",
+    "indonesia": "Kamar tidur",
+    "sunda": "Pangkeng",
+    "__v": 0
+  },
+  {
+    "_id": "672d78623d105950a7d50399",
+    "indonesia": "Ngeluh",
+    "sunda": "Bejanggit",
+    "__v": 0
+  },
+  {
+    "_id": "672d78684770b559d2e8dae0",
+    "indonesia": "Menyatakan fakta",
+    "sunda": "Pantesan",
+    "__v": 0
+  },
+  {
+    "_id": "672d78756fb0de04423a853a",
+    "indonesia": "Pakai",
+    "sunda": "Pake",
+    "__v": 0
+  },
+  {
+    "_id": "672d788795511f4d23493a60",
+    "indonesia": "Telinga",
+    "sunda": "Celi",
+    "__v": 0
+  },
+  {
+    "_id": "672d78960fe1be6a7b85743d",
+    "indonesia": "Keren",
+    "sunda": "Cakep",
+    "__v": 0
+  }
+]

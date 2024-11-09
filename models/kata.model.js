@@ -5,10 +5,12 @@ const KataSchema = mongoose.Schema(
     indonesia: {
       type: String,
       required: [true, "Masukan kata Indonesia"],
+      // required: true,
     },
     sunda: {
       type: String,
       required: [true, "Masukan kata Sunda"],
+      // required: true,
     },
   },
   {

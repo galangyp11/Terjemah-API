@@ -1,6 +1,21 @@
 const Kata = require("../models/kata.model.js");
 const express = require("express");
 const router = express.Router();
+const multer = require("multer");
+const path = require("path");
+const fs = require("fs");
+const excelToJson = require("convert-excel-to-json");
+
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, path.join(__dirname, "../uploads"));
+  },
+  filename: (req, file, cb) => {
+    cb(null, file.fieldname + "-kata" + path.extname(file.originalname));
+  },
+});
+
+const uploading = multer({ storage });
 
 router.post("/kata", async (req, res) => {
   try {
@@ -9,6 +24,32 @@ router.post("/kata", async (req, res) => {
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
+});
+
+router.post("/upload", uploading.single("file"), async (req, res) => {
+  const convertJson = excelToJson({
+    sourceFile: "uploads/file-kata.xlsx",
+    columnToKey: {
+      A: "indonesia",
+      B: "sunda",
+    },
+  });
+  // console.log("convert.son", convertJson.Sheet1);
+  Kata.insertMany(convertJson.Sheet1)
+    .then((value) => {
+      console.log("Saved Successfully");
+      fs.unlink("uploads/file-kata.xlsx", (err) => {
+        if (err) {
+          console.error(err);
+          return;
+        }
+        console.log("File deleted successfully");
+      });
+    })
+    .catch((error) => {
+      console.log(error);
+    });
+  res.json({ message: "Successfully uploaded single file" });
 });
 
 router.get("/kata", async (req, res) => {
