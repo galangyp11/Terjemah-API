@@ -8,7 +8,7 @@ const excelToJson = require("convert-excel-to-json");
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, path.join(__dirname, "../tmp"));
+    cb(null, path.join(__dirname, "/tmp"));
   },
   filename: (req, file, cb) => {
     cb(null, file.fieldname + "-kata" + path.extname(file.originalname));
