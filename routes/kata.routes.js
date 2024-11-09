@@ -8,7 +8,7 @@ const excelToJson = require("convert-excel-to-json");
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, path.join(__dirname, "../uploads"));
+    cb(null, path.join(__dirname, "../tmp"));
   },
   filename: (req, file, cb) => {
     cb(null, file.fieldname + "-kata" + path.extname(file.originalname));
@@ -28,7 +28,7 @@ router.post("/kata", async (req, res) => {
 
 router.post("/upload", uploading.single("file"), async (req, res) => {
   const convertJson = excelToJson({
-    sourceFile: "uploads/file-kata.xlsx",
+    sourceFile: "tmp/file-kata.xlsx",
     columnToKey: {
       A: "indonesia",
       B: "sunda",
