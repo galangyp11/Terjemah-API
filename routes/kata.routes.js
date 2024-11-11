@@ -8,7 +8,7 @@ const excelToJson = require("convert-excel-to-json");
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, path.join(__dirname, "../tmp"));
+    cb(null, path.join(__dirname, "../uploads"));
   },
   // dest: "tmp",
   filename: (req, file, cb) => {
@@ -16,7 +16,7 @@ const storage = multer.diskStorage({
   },
 });
 
-const uploading = multer({ storage });
+const uploading = multer({ dest: "public/" });
 
 router.post("/kata", async (req, res) => {
   try {
@@ -27,30 +27,34 @@ router.post("/kata", async (req, res) => {
   }
 });
 
-router.post("/upload", uploading.single("file"), async (req, res) => {
-  const convertJson = excelToJson({
-    sourceFile: "tmp/file-kata.xlsx",
-    columnToKey: {
-      A: "indonesia",
-      B: "sunda",
-    },
-  });
-  // console.log("convert.son", convertJson.Sheet1);
-  Kata.insertMany(convertJson.Sheet1)
-    .then((value) => {
-      console.log("Saved Successfully");
-      fs.unlink("tmp/file-kata.xlsx", (err) => {
-        if (err) {
-          console.error(err);
-          return;
-        }
-        console.log("File deleted successfully");
-      });
-    })
-    .catch((error) => {
-      console.log(error);
-    });
-  res.json({ message: "Successfully uploaded single file" });
+// router.get("/upload", uploading.single("file"), async (req, res) => {
+//   const convertJson = excelToJson({
+//     sourceFile: "uploads/Format File Kata kabbar.xlsx",
+//     columnToKey: {
+//       A: "indonesia",
+//       B: "sunda",
+//     },
+//   });
+//   // console.log("gitu", req.body);
+//   Kata.insertMany(convertJson.Sheet1)
+//     .then((value) => {
+//       console.log("Saved Successfully");
+//       fs.unlink("uploads/Format File Kata kabbar.xlsx", (err) => {
+//         if (err) {
+//           console.error(err);
+//           return;
+//         }
+//         console.log("File deleted successfully");
+//       });
+//     })
+//     .catch((error) => {
+//       console.log(error);
+//     });
+//   res.json({ message: "Successfully uploaded single file" });
+// });
+
+router.post("/upload", (req, res) => {
+  console.log("gitu", req.body);
 });
 
 router.get("/kata", async (req, res) => {
