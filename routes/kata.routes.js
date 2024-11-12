@@ -31,8 +31,8 @@ router.post("/kata", async (req, res) => {
 //   const convertJson = excelToJson({
 //     sourceFile: "uploads/Format File Kata kabbar.xlsx",
 //     columnToKey: {
-//       A: "indonesia",
-//       B: "sunda",
+//       C: "indonesia",
+//       D: "sunda",
 //     },
 //   });
 //   // console.log("gitu", req.body);
@@ -53,8 +53,14 @@ router.post("/kata", async (req, res) => {
 //   res.json({ message: "Successfully uploaded single file" });
 // });
 
-router.post("/upload", (req, res) => {
-  console.log("gitu", req.body);
+router.post("/upload", async (req, res) => {
+  try {
+    console.log("gitu", req.body);
+    const kata = await Kata.insertMany(req.body);
+    res.status(200).json(kata);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
 });
 
 router.get("/kata", async (req, res) => {
