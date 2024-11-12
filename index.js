@@ -6,8 +6,6 @@ const cors = require("cors");
 const kataRoute = require("./routes/kata.routes.js");
 const adminRoute = require("./routes/admin.routes.js");
 const kodeRoute = require("./routes/kode.routes.js");
-const kataModel = require("./models/kata.model.js");
-const dataKata = require("./data-kata.json");
 
 app.options("*", cors());
 app.use(express.json());
