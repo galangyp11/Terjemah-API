@@ -1,22 +1,6 @@
 const Kata = require("../models/kata.model.js");
 const express = require("express");
 const router = express.Router();
-const multer = require("multer");
-const path = require("path");
-const fs = require("fs");
-const excelToJson = require("convert-excel-to-json");
-
-const storage = multer.diskStorage({
-  destination: (req, file, cb) => {
-    cb(null, path.join(__dirname, "../uploads"));
-  },
-  // dest: "tmp",
-  filename: (req, file, cb) => {
-    cb(null, file.fieldname + "-kata" + path.extname(file.originalname));
-  },
-});
-
-const uploading = multer({ dest: "public/" });
 
 router.post("/kata", async (req, res) => {
   try {
