@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
 const cors = require("cors");
-const bodyParser = require("body-parser");
+// const bodyParser = require("body-parser");
 const kataRoute = require("./routes/kata.routes.js");
 const adminRoute = require("./routes/admin.routes.js");
 const kodeRoute = require("./routes/kode.routes.js");
@@ -12,7 +12,7 @@ const dataKata = require("./data-kata.json");
 app.options("*", cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(bodyParser.json());
+// app.use(bodyParser.json());
 app.use(function (req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header(
